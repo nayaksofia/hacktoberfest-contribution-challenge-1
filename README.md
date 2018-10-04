@@ -25,7 +25,7 @@ Here are 3 quick and painless ways to contribute to this project:
 
 ## Step-3: (optional)
 
->Go through index.html file . Do required changes. Do not decide yet. Do contribute it from your side. 
+>Go through index.html file . Do required changes. Do not decided the webpage yet. Do contribute it from your side. 
 
 # Finally :)
 
