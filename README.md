@@ -17,7 +17,7 @@ Here are 3 quick and painless ways to contribute to this project:
  ## Step-1:
     #### Name: [YOUR NAME]
         - Place: City, State, Country
-        - Bio: Who are you?
+        - Education: 
         - [GitHub](Link)
  
 ## Step-2:

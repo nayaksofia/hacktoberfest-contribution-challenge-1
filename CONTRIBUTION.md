@@ -1,6 +1,6 @@
 
  #### Name: [Your Name] 
 - Place: City, State, Country
-- Bio: Who are you?
+- Education: 
 - [GitHub Link](Link)
 -------------------------------
