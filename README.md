@@ -11,7 +11,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Add `NameOfTechResources_YourName.md` file to the `TechExternalResources` folder 
+* Provide the links of a topic on the  `External_Resources.md` file inside the `TechExternalResources` folder. 
 * Run `index.html` file. And modify it .
  
  ## Step-1:
@@ -21,7 +21,13 @@ Here are 3 quick and painless ways to contribute to this project:
         - [GitHub](Link)
  
 ## Step-2:
->Add `NameOfTechResources_YourName.md` file to the `TechResources` folder. And provide the links of that resourse. Please provide at least **three links**.
+
+## Resources Name | Your Name
+* [External Resources_Link:1]()
+* [External Resources_Link:2]()
+* [External Resources_Link:3]() 
+
+Please provide at least **three links** of that topic..
 
 ## Step-3: (optional)
 
