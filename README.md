@@ -15,10 +15,10 @@ Here are 3 quick and painless ways to contribute to this project:
 * Run `index.html` file. And modify it .
  
  ## Step-1:
-    #### Name: [YOUR NAME]
-        - Place: City, State, Country
-        - Education: 
-        - [GitHub](Link)
+ #### Name: [YOUR NAME]
+- Place: City, State, Country
+- Education: 
+- [GitHub](Link)
  
 ## Step-2:
 
