@@ -10,3 +10,11 @@
 * [What The flex box](https://flexbox.io/)
 * [CSS Flex Box](https://www.w3schools.com/css/css3_flexbox.asp)
 * [FlexBox](https://internetingishard.com/html-and-css/flexbox/)
+
+
+## Carousal front end developement | Sourav Kumar
+* [Introduction To Carousal](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+* [Bootstrap caraousal](https://getbootstrap.com/docs/4.1/components/carousel/)
+* [Material Design Bootstrap Carousal](https://mdbootstrap.com/javascript/carousel/)
+* [More On Carousal](https://3dtransforms.desandro.com/carousel)
+
