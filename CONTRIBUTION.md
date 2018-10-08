@@ -10,7 +10,7 @@
  - Education: B.Tech NIT ROURKELA
  - [GitHub- ayush1507](github.com/ayush1507)
  
- #### Name: [Ayush Agrawal]
+ #### Name: [Sourav Kumar]
  - Place: Patiala, Punjab, India
  - Education: B.Tech Thapar Institute Of Engineering And Technology (Sophomore)
  - [Github- souravs17031999](https://github.com/souravs17031999)
