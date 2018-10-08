@@ -15,3 +15,7 @@
  - Education: B.Tech Thapar Institute Of Engineering And Technology (Sophomore)
  - [Github- souravs17031999](https://github.com/souravs17031999)
  
+#### Name: [Gaurav Aggarwal]
+ - Place: Haryana, India
+ - Education: Bachelor of Computer Application
+ - [GitHub - msgaurav](https://github.com/msgaurav)
