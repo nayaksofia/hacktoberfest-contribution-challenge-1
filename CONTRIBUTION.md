@@ -24,3 +24,8 @@
  - Place: TamilNadu, India
  - Education: B.E Computer Science
  - [GitHub - Leediyal14](https://github.com/Leediyal14)
+ 
+ ## Name: [Avinav Pandey]
+ - Place : New delhi, India
+ - Education : B.tech, Mechanical
+ -[Github - avinavpandey142](https://github.com/avinavpandey142)
