@@ -29,3 +29,8 @@
  - Place : New delhi, India
  - Education : B.tech, Mechanical
  -[Github - avinavpandey142](https://github.com/avinavpandey142)
+
+#### Name: [Arindam Ghosh]
+ - Place: Kolkata, India
+ - Education: BCA
+ - [GitHub- pappughosh](github.com/pappughosh)
